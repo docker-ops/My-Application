@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "version",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "hi"
+  },
+  "author": "",
+  "license": "ISC"
+}
